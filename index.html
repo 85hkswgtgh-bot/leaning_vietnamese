@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#f7f2e8" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#111b24" media="(prefers-color-scheme: dark)" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="ベト単" />
+    <meta name="description" content="オフラインで使える、個人用ベトナム語単語学習アプリ" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>ベト単｜ベトナム語一問一答</title>
+  </head>
+  <body>
+    <header class="app-header">
+      <button class="brand-button" id="home-button" type="button" aria-label="ホームへ戻る">
+        <span class="brand-mark" aria-hidden="true">VI</span>
+        <span>
+          <strong>ベト単</strong>
+          <small>一問一答</small>
+        </span>
+      </button>
+      <div class="header-actions">
+        <span class="status-pill" id="network-status" role="status">オンライン</span>
+        <button class="icon-button" id="settings-button" type="button" aria-label="設定を開く">
+          設定
+        </button>
+      </div>
+    </header>
+
+    <aside class="update-banner" id="update-banner" hidden>
+      <p>新しいバージョンを利用できます。</p>
+      <button id="update-button" type="button">更新する</button>
+    </aside>
+
+    <main id="app" tabindex="-1">
+      <section class="screen home-screen" id="home-screen" aria-labelledby="home-title">
+        <div class="hero">
+          <p class="eyebrow">毎日、ひとことずつ。</p>
+          <h1 id="home-title">ベトナム語を<br /><span>手のひらで。</span></h1>
+          <p>答えを思い出して、自分で採点。<br />学習内容はこの端末だけに保存されます。</p>
+        </div>
+
+        <div class="home-stats" aria-label="学習状況">
+          <div><strong id="stat-learned">0</strong><span>学習した単語</span></div>
+          <div><strong id="stat-review">0</strong><span>復習する単語</span></div>
+          <div><strong id="stat-accuracy">—</strong><span>累計正解率</span></div>
+        </div>
+
+        <form class="study-card" id="study-form">
+          <div class="field">
+            <label for="set-select">学習範囲</label>
+            <select id="set-select" name="set">
+              <option value="all">全範囲</option>
+              <option value="1">セット1｜人称・関係・礼儀</option>
+              <option value="2">セット2｜文法・数量</option>
+              <option value="3">セット3｜接続・場所・構文</option>
+              <option value="4">セット4｜副詞・程度・頻度</option>
+              <option value="5">セット5｜疑問・指示・時間</option>
+              <option value="6">セット6｜基本動詞①</option>
+              <option value="7">セット7｜基本動詞②</option>
+              <option value="8">セット8｜生活・仕事の動詞</option>
+              <option value="9">セット9｜時間・場所・仕事</option>
+              <option value="10">セット10｜職場・状態・形容</option>
+            </select>
+          </div>
+
+          <fieldset>
+            <legend>出題方向</legend>
+            <div class="segmented three">
+              <label><input type="radio" name="direction" value="ja-vi" checked /><span>日 → 越</span></label>
+              <label><input type="radio" name="direction" value="vi-ja" /><span>越 → 日</span></label>
+              <label><input type="radio" name="direction" value="mixed" /><span>両方向</span></label>
+            </div>
+          </fieldset>
+
+          <div class="form-row">
+            <div class="field">
+              <label for="order-select">出題順</label>
+              <select id="order-select" name="order">
+                <option value="random">ランダム</option>
+                <option value="sequential">番号順</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="count-select">問題数</label>
+              <select id="count-select" name="count">
+                <option value="10">10問</option>
+                <option value="20">20問</option>
+                <option value="all">全問</option>
+              </select>
+            </div>
+          </div>
+
+          <label class="check-row">
+            <input id="priority-mistakes" name="priorityMistakes" type="checkbox" />
+            <span>間違えた問題を優先する</span>
+          </label>
+
+          <button class="primary-button" type="submit">学習をはじめる</button>
+          <p class="card-footnote" id="word-count">単語データを読み込み中…</p>
+        </form>
+      </section>
+
+      <section class="screen quiz-screen" id="quiz-screen" aria-labelledby="quiz-heading" hidden>
+        <div class="quiz-topline">
+          <button class="text-button" id="quit-button" type="button">終了</button>
+          <p id="quiz-progress-text">1 / 10</p>
+          <span id="retry-label" class="retry-label" hidden>再挑戦</span>
+        </div>
+        <div class="progress-track" aria-hidden="true"><span id="quiz-progress"></span></div>
+
+        <article class="question-card">
+          <p class="direction-label" id="direction-label">日本語をベトナム語に</p>
+          <h2 id="quiz-heading" class="question-text">読み込み中</h2>
+          <p class="question-note" id="question-note" hidden></p>
+
+          <div class="answer-area" id="answer-area" hidden>
+            <span>答え</span>
+            <p id="answer-text"></p>
+            <p id="answer-note" class="answer-note" hidden></p>
+          </div>
+
+          <form class="input-answer" id="input-answer-form" hidden>
+            <label for="answer-input">ベトナム語を入力</label>
+            <input
+              id="answer-input"
+              name="answer"
+              type="text"
+              lang="vi"
+              autocomplete="off"
+              autocapitalize="none"
+              spellcheck="false"
+              enterkeyhint="done"
+            />
+            <button class="primary-button" type="submit">判定する</button>
+          </form>
+          <p class="judge-message" id="judge-message" role="status" hidden></p>
+        </article>
+
+        <div class="quiz-actions" id="self-grade-actions">
+          <button class="primary-button" id="reveal-button" type="button">答えを見る</button>
+          <div class="grade-buttons" id="grade-buttons" hidden>
+            <button class="wrong-button" id="wrong-button" type="button">不正解</button>
+            <button class="correct-button" id="correct-button" type="button">正解</button>
+          </div>
+        </div>
+        <div class="quiz-actions" id="input-next-actions" hidden>
+          <button class="primary-button" id="input-next-button" type="button">次の問題へ</button>
+        </div>
+      </section>
+
+      <section class="screen results-screen" id="results-screen" aria-labelledby="results-title" hidden>
+        <div class="result-hero">
+          <p class="eyebrow">おつかれさまでした</p>
+          <h1 id="results-title">学習結果</h1>
+          <div class="score-ring">
+            <strong id="result-rate">0%</strong>
+            <span>初回正解率</span>
+          </div>
+        </div>
+        <div class="result-grid">
+          <div><span>出題数</span><strong id="result-total">0問</strong></div>
+          <div><span>初回正解</span><strong id="result-correct">0問</strong></div>
+          <div><span>再出題</span><strong id="result-retry">—</strong></div>
+        </div>
+        <section class="missed-card" id="missed-card">
+          <h2>間違えた単語</h2>
+          <ul id="missed-list"></ul>
+        </section>
+        <div class="result-actions">
+          <button class="primary-button" id="again-button" type="button">もう一度学習する</button>
+          <button class="secondary-button" id="review-button" type="button">間違えた問題だけ復習</button>
+          <button class="text-button centered" id="results-home-button" type="button">ホームへ戻る</button>
+        </div>
+      </section>
+
+      <section class="screen settings-screen" id="settings-screen" aria-labelledby="settings-title" hidden>
+        <div class="screen-title-row">
+          <div>
+            <p class="eyebrow">この端末の設定</p>
+            <h1 id="settings-title">設定</h1>
+          </div>
+          <button class="text-button" id="settings-close-button" type="button">閉じる</button>
+        </div>
+
+        <section class="settings-group">
+          <div>
+            <h2>入力判定モード</h2>
+            <p>日本語→ベトナム語の問題で、文字を入力して自動判定します。</p>
+          </div>
+          <label class="switch">
+            <input type="checkbox" id="input-mode-toggle" />
+            <span aria-hidden="true"></span>
+            <span class="sr-only">入力判定モードを有効にする</span>
+          </label>
+        </section>
+
+        <section class="settings-panel">
+          <h2>学習履歴</h2>
+          <p>機種変更やブラウザデータ消去に備えて、履歴を保存できます。</p>
+          <div class="stacked-actions">
+            <button class="secondary-button" id="export-button" type="button">履歴を書き出す</button>
+            <label class="secondary-button file-button">
+              履歴を復元する
+              <input id="import-input" type="file" accept="application/json,.json" />
+            </label>
+            <button class="danger-text-button" id="reset-button" type="button">全履歴を初期化</button>
+          </div>
+          <p id="settings-message" class="settings-message" role="status" hidden></p>
+        </section>
+
+        <section class="about-panel">
+          <h2>このアプリについて</h2>
+          <p><span id="settings-word-count">—</span>枚のカードを収録。通信せず、履歴は端末内だけに保存します。</p>
+        </section>
+      </section>
+    </main>
+
+    <dialog id="reset-dialog">
+      <form method="dialog">
+        <h2>学習履歴を初期化しますか？</h2>
+        <p>正解数や復習対象がすべて削除されます。この操作は取り消せません。</p>
+        <div class="dialog-actions">
+          <button value="cancel" class="secondary-button">キャンセル</button>
+          <button value="confirm" class="danger-button">初期化する</button>
+        </div>
+      </form>
+    </dialog>
+
+    <noscript>このアプリを利用するにはJavaScriptを有効にしてください。</noscript>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
