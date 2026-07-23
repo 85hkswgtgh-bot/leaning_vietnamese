@@ -1,0 +1,5396 @@
+[
+  {
+    "id": "1",
+    "sourceNumber": 1,
+    "set": 1,
+    "vietnamese": [
+      "tôi"
+    ],
+    "japanese": [
+      "私"
+    ],
+    "displayVietnamese": "tôi",
+    "displayJapanese": "私",
+    "acceptedVietnamese": [
+      "tôi"
+    ],
+    "acceptedJapanese": [
+      "私",
+      "わたし"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "2",
+    "sourceNumber": 2,
+    "set": 1,
+    "vietnamese": [
+      "bạn"
+    ],
+    "japanese": [
+      "あなた",
+      "友達"
+    ],
+    "displayVietnamese": "bạn",
+    "displayJapanese": "あなた、友達",
+    "acceptedVietnamese": [
+      "bạn"
+    ],
+    "acceptedJapanese": [
+      "あなた",
+      "友達",
+      "君"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "3",
+    "sourceNumber": 3,
+    "set": 1,
+    "vietnamese": [
+      "anh"
+    ],
+    "japanese": [
+      "年上の男性",
+      "兄",
+      "男性への呼称"
+    ],
+    "displayVietnamese": "anh",
+    "displayJapanese": "年上の男性、兄、男性への呼称",
+    "acceptedVietnamese": [
+      "anh"
+    ],
+    "acceptedJapanese": [
+      "年上の男性",
+      "兄",
+      "男性への呼称"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "4",
+    "sourceNumber": 4,
+    "set": 1,
+    "vietnamese": [
+      "chị"
+    ],
+    "japanese": [
+      "年上の女性",
+      "姉",
+      "女性への呼称"
+    ],
+    "displayVietnamese": "chị",
+    "displayJapanese": "年上の女性、姉、女性への呼称",
+    "acceptedVietnamese": [
+      "chị"
+    ],
+    "acceptedJapanese": [
+      "年上の女性",
+      "姉",
+      "女性への呼称"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "5",
+    "sourceNumber": 5,
+    "set": 1,
+    "vietnamese": [
+      "em"
+    ],
+    "japanese": [
+      "年下の人",
+      "弟",
+      "妹",
+      "自分が年下の場合の「私」"
+    ],
+    "displayVietnamese": "em",
+    "displayJapanese": "年下の人、弟、妹、自分が年下の場合の「私」",
+    "acceptedVietnamese": [
+      "em"
+    ],
+    "acceptedJapanese": [
+      "年下の人",
+      "弟",
+      "妹",
+      "自分が年下の場合の「私」"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "6",
+    "sourceNumber": 6,
+    "set": 1,
+    "vietnamese": [
+      "mình"
+    ],
+    "japanese": [
+      "自分",
+      "私",
+      "私たち"
+    ],
+    "displayVietnamese": "mình",
+    "displayJapanese": "自分、私、私たち",
+    "acceptedVietnamese": [
+      "mình"
+    ],
+    "acceptedJapanese": [
+      "自分",
+      "私",
+      "私たち"
+    ],
+    "note": "親しい会話で使う。 親しい会話",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "7",
+    "sourceNumber": 7,
+    "set": 1,
+    "vietnamese": [
+      "chúng tôi"
+    ],
+    "japanese": [
+      "私たち"
+    ],
+    "displayVietnamese": "chúng tôi",
+    "displayJapanese": "私たち",
+    "acceptedVietnamese": [
+      "chúng tôi"
+    ],
+    "acceptedJapanese": [
+      "私たち"
+    ],
+    "note": "聞き手を含まない「私たち」。 聞き手を含まない",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "8",
+    "sourceNumber": 8,
+    "set": 1,
+    "vietnamese": [
+      "chúng ta"
+    ],
+    "japanese": [
+      "私たち"
+    ],
+    "displayVietnamese": "chúng ta",
+    "displayJapanese": "私たち",
+    "acceptedVietnamese": [
+      "chúng ta"
+    ],
+    "acceptedJapanese": [
+      "私たち"
+    ],
+    "note": "聞き手を含む「私たち」。 聞き手を含む",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "9",
+    "sourceNumber": 9,
+    "set": 1,
+    "vietnamese": [
+      "họ"
+    ],
+    "japanese": [
+      "彼ら",
+      "彼女ら"
+    ],
+    "displayVietnamese": "họ",
+    "displayJapanese": "彼ら、彼女ら",
+    "acceptedVietnamese": [
+      "họ"
+    ],
+    "acceptedJapanese": [
+      "彼ら",
+      "彼女ら"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "10",
+    "sourceNumber": 10,
+    "set": 1,
+    "vietnamese": [
+      "nó"
+    ],
+    "japanese": [
+      "それ",
+      "彼",
+      "彼女"
+    ],
+    "displayVietnamese": "nó",
+    "displayJapanese": "それ、彼、彼女",
+    "acceptedVietnamese": [
+      "nó"
+    ],
+    "acceptedJapanese": [
+      "それ",
+      "彼",
+      "彼女"
+    ],
+    "note": "親しい相手や目下などへの表現。 親しい相手・目下など",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "11",
+    "sourceNumber": 11,
+    "set": 1,
+    "vietnamese": [
+      "ông"
+    ],
+    "japanese": [
+      "年配男性への敬称",
+      "祖父"
+    ],
+    "displayVietnamese": "ông",
+    "displayJapanese": "年配男性への敬称、祖父",
+    "acceptedVietnamese": [
+      "ông"
+    ],
+    "acceptedJapanese": [
+      "年配男性への敬称",
+      "祖父"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "12",
+    "sourceNumber": 12,
+    "set": 1,
+    "vietnamese": [
+      "bà"
+    ],
+    "japanese": [
+      "年配女性への敬称",
+      "祖母"
+    ],
+    "displayVietnamese": "bà",
+    "displayJapanese": "年配女性への敬称、祖母",
+    "acceptedVietnamese": [
+      "bà"
+    ],
+    "acceptedJapanese": [
+      "年配女性への敬称",
+      "祖母"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "13",
+    "sourceNumber": 13,
+    "set": 1,
+    "vietnamese": [
+      "mọi người"
+    ],
+    "japanese": [
+      "みんな",
+      "皆さん"
+    ],
+    "displayVietnamese": "mọi người",
+    "displayJapanese": "みんな、皆さん",
+    "acceptedVietnamese": [
+      "mọi người"
+    ],
+    "acceptedJapanese": [
+      "みんな",
+      "皆さん"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "14",
+    "sourceNumber": 14,
+    "set": 1,
+    "vietnamese": [
+      "gia đình"
+    ],
+    "japanese": [
+      "家族"
+    ],
+    "displayVietnamese": "gia đình",
+    "displayJapanese": "家族",
+    "acceptedVietnamese": [
+      "gia đình"
+    ],
+    "acceptedJapanese": [
+      "家族"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "15-a",
+    "sourceNumber": 15,
+    "set": 1,
+    "vietnamese": [
+      "vợ"
+    ],
+    "japanese": [
+      "妻"
+    ],
+    "displayVietnamese": "vợ",
+    "displayJapanese": "妻",
+    "acceptedVietnamese": [
+      "vợ"
+    ],
+    "acceptedJapanese": [
+      "妻"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "15-b",
+    "sourceNumber": 15,
+    "set": 1,
+    "vietnamese": [
+      "chồng"
+    ],
+    "japanese": [
+      "夫"
+    ],
+    "displayVietnamese": "chồng",
+    "displayJapanese": "夫",
+    "acceptedVietnamese": [
+      "chồng"
+    ],
+    "acceptedJapanese": [
+      "夫"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "16",
+    "sourceNumber": 16,
+    "set": 1,
+    "vietnamese": [
+      "đồng nghiệp"
+    ],
+    "japanese": [
+      "同僚"
+    ],
+    "displayVietnamese": "đồng nghiệp",
+    "displayJapanese": "同僚",
+    "acceptedVietnamese": [
+      "đồng nghiệp"
+    ],
+    "acceptedJapanese": [
+      "同僚"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "17",
+    "sourceNumber": 17,
+    "set": 1,
+    "vietnamese": [
+      "dạ",
+      "vâng"
+    ],
+    "japanese": [
+      "はい"
+    ],
+    "displayVietnamese": "dạ / vâng",
+    "displayJapanese": "はい",
+    "acceptedVietnamese": [
+      "dạ",
+      "vâng"
+    ],
+    "acceptedJapanese": [
+      "はい"
+    ],
+    "note": "丁寧な返事。南部では dạ が頻出。 丁寧な返事。南部ではdạが頻出",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": true
+  },
+  {
+    "id": "18",
+    "sourceNumber": 18,
+    "set": 1,
+    "vietnamese": [
+      "nha",
+      "nhé"
+    ],
+    "japanese": [
+      "～ね",
+      "～してくださいね"
+    ],
+    "displayVietnamese": "nha / nhé",
+    "displayJapanese": "～ね、～してくださいね",
+    "acceptedVietnamese": [
+      "nha",
+      "nhé"
+    ],
+    "acceptedJapanese": [
+      "～ね",
+      "～してくださいね"
+    ],
+    "note": "文末表現。南部では nha が頻出。 南部ではnhaが頻出",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": true
+  },
+  {
+    "id": "19",
+    "sourceNumber": 19,
+    "set": 1,
+    "vietnamese": [
+      "cảm ơn"
+    ],
+    "japanese": [
+      "ありがとう",
+      "感謝する"
+    ],
+    "displayVietnamese": "cảm ơn",
+    "displayJapanese": "ありがとう、感謝する",
+    "acceptedVietnamese": [
+      "cảm ơn"
+    ],
+    "acceptedJapanese": [
+      "ありがとう",
+      "感謝する",
+      "感謝"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "20",
+    "sourceNumber": 20,
+    "set": 1,
+    "vietnamese": [
+      "xin lỗi"
+    ],
+    "japanese": [
+      "すみません",
+      "ごめんなさい"
+    ],
+    "displayVietnamese": "xin lỗi",
+    "displayJapanese": "すみません、ごめんなさい",
+    "acceptedVietnamese": [
+      "xin lỗi"
+    ],
+    "acceptedJapanese": [
+      "すみません",
+      "ごめんなさい",
+      "ごめん"
+    ],
+    "note": "",
+    "tags": [
+      "人称・関係・礼儀"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "21",
+    "sourceNumber": 21,
+    "set": 2,
+    "vietnamese": [
+      "là"
+    ],
+    "japanese": [
+      "～である",
+      "～です"
+    ],
+    "displayVietnamese": "là",
+    "displayJapanese": "～である、～です",
+    "acceptedVietnamese": [
+      "là"
+    ],
+    "acceptedJapanese": [
+      "～である",
+      "～です"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "22",
+    "sourceNumber": 22,
+    "set": 2,
+    "vietnamese": [
+      "có"
+    ],
+    "japanese": [
+      "ある",
+      "いる",
+      "持っている"
+    ],
+    "displayVietnamese": "có",
+    "displayJapanese": "ある、いる、持っている",
+    "acceptedVietnamese": [
+      "có"
+    ],
+    "acceptedJapanese": [
+      "ある",
+      "いる",
+      "持っている"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "23",
+    "sourceNumber": 23,
+    "set": 2,
+    "vietnamese": [
+      "không"
+    ],
+    "japanese": [
+      "～ない",
+      "いいえ"
+    ],
+    "displayVietnamese": "không",
+    "displayJapanese": "～ない、いいえ",
+    "acceptedVietnamese": [
+      "không"
+    ],
+    "acceptedJapanese": [
+      "～ない",
+      "いいえ"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "24",
+    "sourceNumber": 24,
+    "set": 2,
+    "vietnamese": [
+      "chưa"
+    ],
+    "japanese": [
+      "まだ～していない",
+      "もう～したか"
+    ],
+    "displayVietnamese": "chưa",
+    "displayJapanese": "まだ～していない、もう～したか",
+    "acceptedVietnamese": [
+      "chưa"
+    ],
+    "acceptedJapanese": [
+      "まだ～していない",
+      "もう～したか"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "25",
+    "sourceNumber": 25,
+    "set": 2,
+    "vietnamese": [
+      "đã"
+    ],
+    "japanese": [
+      "すでに～した"
+    ],
+    "displayVietnamese": "đã",
+    "displayJapanese": "すでに～した",
+    "acceptedVietnamese": [
+      "đã"
+    ],
+    "acceptedJapanese": [
+      "すでに～した"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "26",
+    "sourceNumber": 26,
+    "set": 2,
+    "vietnamese": [
+      "đang"
+    ],
+    "japanese": [
+      "～している"
+    ],
+    "displayVietnamese": "đang",
+    "displayJapanese": "～している",
+    "acceptedVietnamese": [
+      "đang"
+    ],
+    "acceptedJapanese": [
+      "～している"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "27",
+    "sourceNumber": 27,
+    "set": 2,
+    "vietnamese": [
+      "sẽ"
+    ],
+    "japanese": [
+      "～する予定",
+      "～だろう"
+    ],
+    "displayVietnamese": "sẽ",
+    "displayJapanese": "～する予定、～だろう",
+    "acceptedVietnamese": [
+      "sẽ"
+    ],
+    "acceptedJapanese": [
+      "～する予定",
+      "～だろう"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "28",
+    "sourceNumber": 28,
+    "set": 2,
+    "vietnamese": [
+      "được"
+    ],
+    "japanese": [
+      "できる",
+      "許可される",
+      "受け取る",
+      "好ましい受け身"
+    ],
+    "displayVietnamese": "được",
+    "displayJapanese": "できる、許可される、受け取る、好ましい受け身",
+    "acceptedVietnamese": [
+      "được"
+    ],
+    "acceptedJapanese": [
+      "できる",
+      "許可される",
+      "受け取る",
+      "好ましい受け身"
+    ],
+    "note": "可能・許可・受領・好ましい受け身など、文脈で意味が変わる。",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "29",
+    "sourceNumber": 29,
+    "set": 2,
+    "vietnamese": [
+      "bị"
+    ],
+    "japanese": [
+      "被る",
+      "不利益な受け身"
+    ],
+    "displayVietnamese": "bị",
+    "displayJapanese": "被る、不利益な受け身",
+    "acceptedVietnamese": [
+      "bị"
+    ],
+    "acceptedJapanese": [
+      "被る",
+      "不利益な受け身"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "30",
+    "sourceNumber": 30,
+    "set": 2,
+    "vietnamese": [
+      "muốn"
+    ],
+    "japanese": [
+      "～したい",
+      "欲しい"
+    ],
+    "displayVietnamese": "muốn",
+    "displayJapanese": "～したい、欲しい",
+    "acceptedVietnamese": [
+      "muốn"
+    ],
+    "acceptedJapanese": [
+      "～したい",
+      "欲しい"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "31",
+    "sourceNumber": 31,
+    "set": 2,
+    "vietnamese": [
+      "cần"
+    ],
+    "japanese": [
+      "必要である",
+      "～する必要がある"
+    ],
+    "displayVietnamese": "cần",
+    "displayJapanese": "必要である、～する必要がある",
+    "acceptedVietnamese": [
+      "cần"
+    ],
+    "acceptedJapanese": [
+      "必要である",
+      "～する必要がある"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "32",
+    "sourceNumber": 32,
+    "set": 2,
+    "vietnamese": [
+      "phải"
+    ],
+    "japanese": [
+      "～しなければならない",
+      "正しい"
+    ],
+    "displayVietnamese": "phải",
+    "displayJapanese": "～しなければならない、正しい",
+    "acceptedVietnamese": [
+      "phải"
+    ],
+    "acceptedJapanese": [
+      "～しなければならない",
+      "正しい"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "33",
+    "sourceNumber": 33,
+    "set": 2,
+    "vietnamese": [
+      "có thể"
+    ],
+    "japanese": [
+      "～できる",
+      "～かもしれない"
+    ],
+    "displayVietnamese": "có thể",
+    "displayJapanese": "～できる、～かもしれない",
+    "acceptedVietnamese": [
+      "có thể"
+    ],
+    "acceptedJapanese": [
+      "～できる",
+      "～かもしれない"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "34",
+    "sourceNumber": 34,
+    "set": 2,
+    "vietnamese": [
+      "một"
+    ],
+    "japanese": [
+      "1",
+      "一つの"
+    ],
+    "displayVietnamese": "một",
+    "displayJapanese": "1、一つの",
+    "acceptedVietnamese": [
+      "một"
+    ],
+    "acceptedJapanese": [
+      "1",
+      "一つの"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "35",
+    "sourceNumber": 35,
+    "set": 2,
+    "vietnamese": [
+      "những"
+    ],
+    "japanese": [
+      "複数を示す語",
+      "いくつかの"
+    ],
+    "displayVietnamese": "những",
+    "displayJapanese": "複数を示す語、いくつかの",
+    "acceptedVietnamese": [
+      "những"
+    ],
+    "acceptedJapanese": [
+      "複数を示す語",
+      "いくつかの"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "36",
+    "sourceNumber": 36,
+    "set": 2,
+    "vietnamese": [
+      "các"
+    ],
+    "japanese": [
+      "複数・集合を示す語"
+    ],
+    "displayVietnamese": "các",
+    "displayJapanese": "複数・集合を示す語",
+    "acceptedVietnamese": [
+      "các"
+    ],
+    "acceptedJapanese": [
+      "複数・集合を示す語"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "37",
+    "sourceNumber": 37,
+    "set": 2,
+    "vietnamese": [
+      "cái"
+    ],
+    "japanese": [
+      "物を数える類別詞",
+      "物"
+    ],
+    "displayVietnamese": "cái",
+    "displayJapanese": "物を数える類別詞、物",
+    "acceptedVietnamese": [
+      "cái"
+    ],
+    "acceptedJapanese": [
+      "物を数える類別詞",
+      "物"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "38",
+    "sourceNumber": 38,
+    "set": 2,
+    "vietnamese": [
+      "con"
+    ],
+    "japanese": [
+      "子ども",
+      "動物を数える類別詞"
+    ],
+    "displayVietnamese": "con",
+    "displayJapanese": "子ども、動物を数える類別詞",
+    "acceptedVietnamese": [
+      "con"
+    ],
+    "acceptedJapanese": [
+      "子ども",
+      "動物を数える類別詞"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "39",
+    "sourceNumber": 39,
+    "set": 2,
+    "vietnamese": [
+      "nhiều"
+    ],
+    "japanese": [
+      "多い",
+      "たくさん"
+    ],
+    "displayVietnamese": "nhiều",
+    "displayJapanese": "多い、たくさん",
+    "acceptedVietnamese": [
+      "nhiều"
+    ],
+    "acceptedJapanese": [
+      "多い",
+      "たくさん"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "40",
+    "sourceNumber": 40,
+    "set": 2,
+    "vietnamese": [
+      "ít"
+    ],
+    "japanese": [
+      "少ない",
+      "少し"
+    ],
+    "displayVietnamese": "ít",
+    "displayJapanese": "少ない、少し",
+    "acceptedVietnamese": [
+      "ít"
+    ],
+    "acceptedJapanese": [
+      "少ない",
+      "少し"
+    ],
+    "note": "",
+    "tags": [
+      "文法・数量"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "41",
+    "sourceNumber": 41,
+    "set": 3,
+    "vietnamese": [
+      "của"
+    ],
+    "japanese": [
+      "～の"
+    ],
+    "displayVietnamese": "của",
+    "displayJapanese": "～の",
+    "acceptedVietnamese": [
+      "của"
+    ],
+    "acceptedJapanese": [
+      "～の"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "42",
+    "sourceNumber": 42,
+    "set": 3,
+    "vietnamese": [
+      "với"
+    ],
+    "japanese": [
+      "～と",
+      "～に対して"
+    ],
+    "displayVietnamese": "với",
+    "displayJapanese": "～と、～に対して",
+    "acceptedVietnamese": [
+      "với"
+    ],
+    "acceptedJapanese": [
+      "～と",
+      "～に対して"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "43",
+    "sourceNumber": 43,
+    "set": 3,
+    "vietnamese": [
+      "cho"
+    ],
+    "japanese": [
+      "～に",
+      "～のために",
+      "与える"
+    ],
+    "displayVietnamese": "cho",
+    "displayJapanese": "～に、～のために、与える",
+    "acceptedVietnamese": [
+      "cho"
+    ],
+    "acceptedJapanese": [
+      "～に",
+      "～のために",
+      "与える"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "44",
+    "sourceNumber": 44,
+    "set": 3,
+    "vietnamese": [
+      "ở"
+    ],
+    "japanese": [
+      "～にいる",
+      "～にある",
+      "～で"
+    ],
+    "displayVietnamese": "ở",
+    "displayJapanese": "～にいる、～にある、～で",
+    "acceptedVietnamese": [
+      "ở"
+    ],
+    "acceptedJapanese": [
+      "～にいる",
+      "～にある",
+      "～で"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "45",
+    "sourceNumber": 45,
+    "set": 3,
+    "vietnamese": [
+      "từ"
+    ],
+    "japanese": [
+      "～から",
+      "単語"
+    ],
+    "displayVietnamese": "từ",
+    "displayJapanese": "～から、単語",
+    "acceptedVietnamese": [
+      "từ"
+    ],
+    "acceptedJapanese": [
+      "～から",
+      "単語"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "46",
+    "sourceNumber": 46,
+    "set": 3,
+    "vietnamese": [
+      "đến",
+      "tới"
+    ],
+    "japanese": [
+      "～まで",
+      "到着する",
+      "来る"
+    ],
+    "displayVietnamese": "đến / tới",
+    "displayJapanese": "～まで、到着する、来る",
+    "acceptedVietnamese": [
+      "đến",
+      "tới"
+    ],
+    "acceptedJapanese": [
+      "～まで",
+      "到着する",
+      "来る",
+      "着く"
+    ],
+    "note": "đến と tới を許容回答とする。",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "47",
+    "sourceNumber": 47,
+    "set": 3,
+    "vietnamese": [
+      "trong"
+    ],
+    "japanese": [
+      "～の中",
+      "中で"
+    ],
+    "displayVietnamese": "trong",
+    "displayJapanese": "～の中、中で",
+    "acceptedVietnamese": [
+      "trong"
+    ],
+    "acceptedJapanese": [
+      "～の中",
+      "中で"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "48",
+    "sourceNumber": 48,
+    "set": 3,
+    "vietnamese": [
+      "ngoài"
+    ],
+    "japanese": [
+      "～の外",
+      "～以外"
+    ],
+    "displayVietnamese": "ngoài",
+    "displayJapanese": "～の外、～以外",
+    "acceptedVietnamese": [
+      "ngoài"
+    ],
+    "acceptedJapanese": [
+      "～の外",
+      "～以外"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "49",
+    "sourceNumber": 49,
+    "set": 3,
+    "vietnamese": [
+      "trên"
+    ],
+    "japanese": [
+      "～の上",
+      "～について"
+    ],
+    "displayVietnamese": "trên",
+    "displayJapanese": "～の上、～について",
+    "acceptedVietnamese": [
+      "trên"
+    ],
+    "acceptedJapanese": [
+      "～の上",
+      "～について"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "50",
+    "sourceNumber": 50,
+    "set": 3,
+    "vietnamese": [
+      "hay",
+      "hoặc"
+    ],
+    "japanese": [
+      "または"
+    ],
+    "displayVietnamese": "hay / hoặc",
+    "displayJapanese": "または",
+    "acceptedVietnamese": [
+      "hay",
+      "hoặc"
+    ],
+    "acceptedJapanese": [
+      "または"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "51",
+    "sourceNumber": 51,
+    "set": 3,
+    "vietnamese": [
+      "nhưng"
+    ],
+    "japanese": [
+      "しかし",
+      "しかしながら"
+    ],
+    "displayVietnamese": "nhưng",
+    "displayJapanese": "しかし、しかしながら",
+    "acceptedVietnamese": [
+      "nhưng"
+    ],
+    "acceptedJapanese": [
+      "しかし",
+      "しかしながら"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "52",
+    "sourceNumber": 52,
+    "set": 3,
+    "vietnamese": [
+      "vì"
+    ],
+    "japanese": [
+      "～なので",
+      "～のため"
+    ],
+    "displayVietnamese": "vì",
+    "displayJapanese": "～なので、～のため",
+    "acceptedVietnamese": [
+      "vì"
+    ],
+    "acceptedJapanese": [
+      "～なので",
+      "～のため"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "53",
+    "sourceNumber": 53,
+    "set": 3,
+    "vietnamese": [
+      "nên"
+    ],
+    "japanese": [
+      "したがって",
+      "～した方がよい"
+    ],
+    "displayVietnamese": "nên",
+    "displayJapanese": "したがって、～した方がよい",
+    "acceptedVietnamese": [
+      "nên"
+    ],
+    "acceptedJapanese": [
+      "したがって",
+      "～した方がよい"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "54",
+    "sourceNumber": 54,
+    "set": 3,
+    "vietnamese": [
+      "nếu"
+    ],
+    "japanese": [
+      "もし～なら"
+    ],
+    "displayVietnamese": "nếu",
+    "displayJapanese": "もし～なら",
+    "acceptedVietnamese": [
+      "nếu"
+    ],
+    "acceptedJapanese": [
+      "もし～なら"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "55",
+    "sourceNumber": 55,
+    "set": 3,
+    "vietnamese": [
+      "để"
+    ],
+    "japanese": [
+      "～するために",
+      "～させる",
+      "置く"
+    ],
+    "displayVietnamese": "để",
+    "displayJapanese": "～するために、～させる、置く",
+    "acceptedVietnamese": [
+      "để"
+    ],
+    "acceptedJapanese": [
+      "～するために",
+      "～させる",
+      "置く"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "56",
+    "sourceNumber": 56,
+    "set": 3,
+    "vietnamese": [
+      "mà"
+    ],
+    "japanese": [
+      "～で",
+      "～なのに",
+      "文をつなぐ・強調する語"
+    ],
+    "displayVietnamese": "mà",
+    "displayJapanese": "～で、～なのに、文をつなぐ・強調する語",
+    "acceptedVietnamese": [
+      "mà"
+    ],
+    "acceptedJapanese": [
+      "～で",
+      "～なのに",
+      "文をつなぐ・強調する語"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "57",
+    "sourceNumber": 57,
+    "set": 3,
+    "vietnamese": [
+      "thì"
+    ],
+    "japanese": [
+      "～なら",
+      "～については",
+      "そのとき"
+    ],
+    "displayVietnamese": "thì",
+    "displayJapanese": "～なら、～については、そのとき",
+    "acceptedVietnamese": [
+      "thì"
+    ],
+    "acceptedJapanese": [
+      "～なら",
+      "～については",
+      "そのとき"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "58",
+    "sourceNumber": 58,
+    "set": 3,
+    "vietnamese": [
+      "cũng"
+    ],
+    "japanese": [
+      "～も",
+      "同様に"
+    ],
+    "displayVietnamese": "cũng",
+    "displayJapanese": "～も、同様に",
+    "acceptedVietnamese": [
+      "cũng"
+    ],
+    "acceptedJapanese": [
+      "～も",
+      "同様に"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "59",
+    "sourceNumber": 59,
+    "set": 3,
+    "vietnamese": [
+      "chỉ"
+    ],
+    "japanese": [
+      "～だけ",
+      "ただ"
+    ],
+    "displayVietnamese": "chỉ",
+    "displayJapanese": "～だけ、ただ",
+    "acceptedVietnamese": [
+      "chỉ"
+    ],
+    "acceptedJapanese": [
+      "～だけ",
+      "ただ"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "60",
+    "sourceNumber": 60,
+    "set": 3,
+    "vietnamese": [
+      "và"
+    ],
+    "japanese": [
+      "そして",
+      "～と"
+    ],
+    "displayVietnamese": "và",
+    "displayJapanese": "そして、～と",
+    "acceptedVietnamese": [
+      "và"
+    ],
+    "acceptedJapanese": [
+      "そして",
+      "～と"
+    ],
+    "note": "",
+    "tags": [
+      "接続・場所・構文"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "61",
+    "sourceNumber": 61,
+    "set": 4,
+    "vietnamese": [
+      "còn"
+    ],
+    "japanese": [
+      "まだ",
+      "残っている",
+      "一方～は"
+    ],
+    "displayVietnamese": "còn",
+    "displayJapanese": "まだ、残っている、一方～は",
+    "acceptedVietnamese": [
+      "còn"
+    ],
+    "acceptedJapanese": [
+      "まだ",
+      "残っている",
+      "一方～は"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "62",
+    "sourceNumber": 62,
+    "set": 4,
+    "vietnamese": [
+      "lại"
+    ],
+    "japanese": [
+      "再び",
+      "戻って",
+      "反対に"
+    ],
+    "displayVietnamese": "lại",
+    "displayJapanese": "再び、戻って、反対に",
+    "acceptedVietnamese": [
+      "lại"
+    ],
+    "acceptedJapanese": [
+      "再び",
+      "戻って",
+      "反対に"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "63",
+    "sourceNumber": 63,
+    "set": 4,
+    "vietnamese": [
+      "rồi"
+    ],
+    "japanese": [
+      "もう",
+      "終わった",
+      "それから"
+    ],
+    "displayVietnamese": "rồi",
+    "displayJapanese": "もう、終わった、それから",
+    "acceptedVietnamese": [
+      "rồi"
+    ],
+    "acceptedJapanese": [
+      "もう",
+      "終わった",
+      "それから"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "64",
+    "sourceNumber": 64,
+    "set": 4,
+    "vietnamese": [
+      "vẫn"
+    ],
+    "japanese": [
+      "依然として",
+      "まだ"
+    ],
+    "displayVietnamese": "vẫn",
+    "displayJapanese": "依然として、まだ",
+    "acceptedVietnamese": [
+      "vẫn"
+    ],
+    "acceptedJapanese": [
+      "依然として",
+      "まだ"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "65",
+    "sourceNumber": 65,
+    "set": 4,
+    "vietnamese": [
+      "nữa"
+    ],
+    "japanese": [
+      "さらに",
+      "もう一度",
+      "もう～ない"
+    ],
+    "displayVietnamese": "nữa",
+    "displayJapanese": "さらに、もう一度、もう～ない",
+    "acceptedVietnamese": [
+      "nữa"
+    ],
+    "acceptedJapanese": [
+      "さらに",
+      "もう一度",
+      "もう～ない"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "66",
+    "sourceNumber": 66,
+    "set": 4,
+    "vietnamese": [
+      "rất"
+    ],
+    "japanese": [
+      "とても"
+    ],
+    "displayVietnamese": "rất",
+    "displayJapanese": "とても",
+    "acceptedVietnamese": [
+      "rất"
+    ],
+    "acceptedJapanese": [
+      "とても"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "67",
+    "sourceNumber": 67,
+    "set": 4,
+    "vietnamese": [
+      "quá"
+    ],
+    "japanese": [
+      "～すぎる",
+      "とても"
+    ],
+    "displayVietnamese": "quá",
+    "displayJapanese": "～すぎる、とても",
+    "acceptedVietnamese": [
+      "quá"
+    ],
+    "acceptedJapanese": [
+      "～すぎる",
+      "とても"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "68",
+    "sourceNumber": 68,
+    "set": 4,
+    "vietnamese": [
+      "hơn"
+    ],
+    "japanese": [
+      "より",
+      "もっと"
+    ],
+    "displayVietnamese": "hơn",
+    "displayJapanese": "より、もっと",
+    "acceptedVietnamese": [
+      "hơn"
+    ],
+    "acceptedJapanese": [
+      "より",
+      "もっと"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "69",
+    "sourceNumber": 69,
+    "set": 4,
+    "vietnamese": [
+      "thêm"
+    ],
+    "japanese": [
+      "追加する",
+      "さらに"
+    ],
+    "displayVietnamese": "thêm",
+    "displayJapanese": "追加する、さらに",
+    "acceptedVietnamese": [
+      "thêm"
+    ],
+    "acceptedJapanese": [
+      "追加する",
+      "さらに"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "70",
+    "sourceNumber": 70,
+    "set": 4,
+    "vietnamese": [
+      "hết"
+    ],
+    "japanese": [
+      "全部なくなる",
+      "終わる",
+      "すべて"
+    ],
+    "displayVietnamese": "hết",
+    "displayJapanese": "全部なくなる、終わる、すべて",
+    "acceptedVietnamese": [
+      "hết"
+    ],
+    "acceptedJapanese": [
+      "全部なくなる",
+      "終わる",
+      "すべて"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "71",
+    "sourceNumber": 71,
+    "set": 4,
+    "vietnamese": [
+      "như"
+    ],
+    "japanese": [
+      "～のように",
+      "～と同じく"
+    ],
+    "displayVietnamese": "như",
+    "displayJapanese": "～のように、～と同じく",
+    "acceptedVietnamese": [
+      "như"
+    ],
+    "acceptedJapanese": [
+      "～のように",
+      "～と同じく"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "72",
+    "sourceNumber": 72,
+    "set": 4,
+    "vietnamese": [
+      "bằng"
+    ],
+    "japanese": [
+      "～によって",
+      "～で",
+      "等しい"
+    ],
+    "displayVietnamese": "bằng",
+    "displayJapanese": "～によって、～で、等しい",
+    "acceptedVietnamese": [
+      "bằng"
+    ],
+    "acceptedJapanese": [
+      "～によって",
+      "～で",
+      "等しい"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "73",
+    "sourceNumber": 73,
+    "set": 4,
+    "vietnamese": [
+      "theo"
+    ],
+    "japanese": [
+      "～に従って",
+      "～によれば",
+      "ついていく"
+    ],
+    "displayVietnamese": "theo",
+    "displayJapanese": "～に従って、～によれば、ついていく",
+    "acceptedVietnamese": [
+      "theo"
+    ],
+    "acceptedJapanese": [
+      "～に従って",
+      "～によれば",
+      "ついていく"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "74",
+    "sourceNumber": 74,
+    "set": 4,
+    "vietnamese": [
+      "khác"
+    ],
+    "japanese": [
+      "違う",
+      "ほかの"
+    ],
+    "displayVietnamese": "khác",
+    "displayJapanese": "違う、ほかの",
+    "acceptedVietnamese": [
+      "khác"
+    ],
+    "acceptedJapanese": [
+      "違う",
+      "ほかの"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "75",
+    "sourceNumber": 75,
+    "set": 4,
+    "vietnamese": [
+      "cùng"
+    ],
+    "japanese": [
+      "一緒に",
+      "同じ"
+    ],
+    "displayVietnamese": "cùng",
+    "displayJapanese": "一緒に、同じ",
+    "acceptedVietnamese": [
+      "cùng"
+    ],
+    "acceptedJapanese": [
+      "一緒に",
+      "同じ"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "76",
+    "sourceNumber": 76,
+    "set": 4,
+    "vietnamese": [
+      "mỗi"
+    ],
+    "japanese": [
+      "各～",
+      "毎～"
+    ],
+    "displayVietnamese": "mỗi",
+    "displayJapanese": "各～、毎～",
+    "acceptedVietnamese": [
+      "mỗi"
+    ],
+    "acceptedJapanese": [
+      "各～",
+      "毎～"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "77",
+    "sourceNumber": 77,
+    "set": 4,
+    "vietnamese": [
+      "ngay"
+    ],
+    "japanese": [
+      "すぐに",
+      "まさに"
+    ],
+    "displayVietnamese": "ngay",
+    "displayJapanese": "すぐに、まさに",
+    "acceptedVietnamese": [
+      "ngay"
+    ],
+    "acceptedJapanese": [
+      "すぐに",
+      "まさに"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "78",
+    "sourceNumber": 78,
+    "set": 4,
+    "vietnamese": [
+      "luôn"
+    ],
+    "japanese": [
+      "いつも",
+      "すぐそのまま"
+    ],
+    "displayVietnamese": "luôn",
+    "displayJapanese": "いつも、すぐそのまま",
+    "acceptedVietnamese": [
+      "luôn"
+    ],
+    "acceptedJapanese": [
+      "いつも",
+      "すぐそのまま"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "79-a",
+    "sourceNumber": 79,
+    "set": 4,
+    "vietnamese": [
+      "sớm"
+    ],
+    "japanese": [
+      "早い",
+      "早く"
+    ],
+    "displayVietnamese": "sớm",
+    "displayJapanese": "早い、早く",
+    "acceptedVietnamese": [
+      "sớm"
+    ],
+    "acceptedJapanese": [
+      "早い",
+      "早く"
+    ],
+    "note": "trễ は地域によりよく使われる表現。",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": true
+  },
+  {
+    "id": "79-b",
+    "sourceNumber": 79,
+    "set": 4,
+    "vietnamese": [
+      "trễ"
+    ],
+    "japanese": [
+      "遅い",
+      "遅く"
+    ],
+    "displayVietnamese": "trễ",
+    "displayJapanese": "遅い、遅く",
+    "acceptedVietnamese": [
+      "trễ"
+    ],
+    "acceptedJapanese": [
+      "遅い",
+      "遅く"
+    ],
+    "note": "trễ は地域によりよく使われる表現。",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": true
+  },
+  {
+    "id": "80",
+    "sourceNumber": 80,
+    "set": 4,
+    "vietnamese": [
+      "thường"
+    ],
+    "japanese": [
+      "普通の",
+      "通常",
+      "よく～する"
+    ],
+    "displayVietnamese": "thường",
+    "displayJapanese": "普通の、通常、よく～する",
+    "acceptedVietnamese": [
+      "thường"
+    ],
+    "acceptedJapanese": [
+      "普通の",
+      "通常",
+      "よく～する"
+    ],
+    "note": "",
+    "tags": [
+      "副詞・程度・頻度"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "81",
+    "sourceNumber": 81,
+    "set": 5,
+    "vietnamese": [
+      "gì"
+    ],
+    "japanese": [
+      "何"
+    ],
+    "displayVietnamese": "gì",
+    "displayJapanese": "何",
+    "acceptedVietnamese": [
+      "gì"
+    ],
+    "acceptedJapanese": [
+      "何"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "82",
+    "sourceNumber": 82,
+    "set": 5,
+    "vietnamese": [
+      "ai"
+    ],
+    "japanese": [
+      "誰"
+    ],
+    "displayVietnamese": "ai",
+    "displayJapanese": "誰",
+    "acceptedVietnamese": [
+      "ai"
+    ],
+    "acceptedJapanese": [
+      "誰"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "83",
+    "sourceNumber": 83,
+    "set": 5,
+    "vietnamese": [
+      "đâu"
+    ],
+    "japanese": [
+      "どこ",
+      "どこにも"
+    ],
+    "displayVietnamese": "đâu",
+    "displayJapanese": "どこ、どこにも",
+    "acceptedVietnamese": [
+      "đâu"
+    ],
+    "acceptedJapanese": [
+      "どこ",
+      "どこにも"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "84",
+    "sourceNumber": 84,
+    "set": 5,
+    "vietnamese": [
+      "nào"
+    ],
+    "japanese": [
+      "どの",
+      "どれ"
+    ],
+    "displayVietnamese": "nào",
+    "displayJapanese": "どの、どれ",
+    "acceptedVietnamese": [
+      "nào"
+    ],
+    "acceptedJapanese": [
+      "どの",
+      "どれ"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "85",
+    "sourceNumber": 85,
+    "set": 5,
+    "vietnamese": [
+      "bao nhiêu"
+    ],
+    "japanese": [
+      "いくつ",
+      "いくら"
+    ],
+    "displayVietnamese": "bao nhiêu",
+    "displayJapanese": "いくつ、いくら",
+    "acceptedVietnamese": [
+      "bao nhiêu"
+    ],
+    "acceptedJapanese": [
+      "いくつ",
+      "いくら"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "86",
+    "sourceNumber": 86,
+    "set": 5,
+    "vietnamese": [
+      "mấy"
+    ],
+    "japanese": [
+      "いくつ",
+      "何番",
+      "何時"
+    ],
+    "displayVietnamese": "mấy",
+    "displayJapanese": "いくつ、何番、何時",
+    "acceptedVietnamese": [
+      "mấy"
+    ],
+    "acceptedJapanese": [
+      "いくつ",
+      "何番",
+      "何時"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "87",
+    "sourceNumber": 87,
+    "set": 5,
+    "vietnamese": [
+      "khi nào",
+      "bao giờ"
+    ],
+    "japanese": [
+      "いつ"
+    ],
+    "displayVietnamese": "khi nào / bao giờ",
+    "displayJapanese": "いつ",
+    "acceptedVietnamese": [
+      "khi nào",
+      "bao giờ"
+    ],
+    "acceptedJapanese": [
+      "いつ"
+    ],
+    "note": "khi nào と bao giờ を許容回答とする。",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "88",
+    "sourceNumber": 88,
+    "set": 5,
+    "vietnamese": [
+      "tại sao",
+      "sao"
+    ],
+    "japanese": [
+      "なぜ",
+      "どうして"
+    ],
+    "displayVietnamese": "tại sao / sao",
+    "displayJapanese": "なぜ、どうして",
+    "acceptedVietnamese": [
+      "tại sao",
+      "sao"
+    ],
+    "acceptedJapanese": [
+      "なぜ",
+      "どうして"
+    ],
+    "note": "tại sao と sao を許容回答とする。",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "89",
+    "sourceNumber": 89,
+    "set": 5,
+    "vietnamese": [
+      "thế nào",
+      "như thế nào"
+    ],
+    "japanese": [
+      "どのように",
+      "どんな"
+    ],
+    "displayVietnamese": "thế nào / như thế nào",
+    "displayJapanese": "どのように、どんな",
+    "acceptedVietnamese": [
+      "thế nào",
+      "như thế nào"
+    ],
+    "acceptedJapanese": [
+      "どのように",
+      "どんな"
+    ],
+    "note": "thế nào と như thế nào を許容回答とする。",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "90",
+    "sourceNumber": 90,
+    "set": 5,
+    "vietnamese": [
+      "này"
+    ],
+    "japanese": [
+      "この",
+      "これ"
+    ],
+    "displayVietnamese": "này",
+    "displayJapanese": "この、これ",
+    "acceptedVietnamese": [
+      "này"
+    ],
+    "acceptedJapanese": [
+      "この",
+      "これ"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "91",
+    "sourceNumber": 91,
+    "set": 5,
+    "vietnamese": [
+      "đó"
+    ],
+    "japanese": [
+      "その",
+      "あれ",
+      "そこ"
+    ],
+    "displayVietnamese": "đó",
+    "displayJapanese": "その、あれ、そこ",
+    "acceptedVietnamese": [
+      "đó"
+    ],
+    "acceptedJapanese": [
+      "その",
+      "あれ",
+      "そこ"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "92",
+    "sourceNumber": 92,
+    "set": 5,
+    "vietnamese": [
+      "đây"
+    ],
+    "japanese": [
+      "ここ",
+      "これ"
+    ],
+    "displayVietnamese": "đây",
+    "displayJapanese": "ここ、これ",
+    "acceptedVietnamese": [
+      "đây"
+    ],
+    "acceptedJapanese": [
+      "ここ",
+      "これ"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "93",
+    "sourceNumber": 93,
+    "set": 5,
+    "vietnamese": [
+      "hôm nay"
+    ],
+    "japanese": [
+      "今日"
+    ],
+    "displayVietnamese": "hôm nay",
+    "displayJapanese": "今日",
+    "acceptedVietnamese": [
+      "hôm nay"
+    ],
+    "acceptedJapanese": [
+      "今日",
+      "本日"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "94",
+    "sourceNumber": 94,
+    "set": 5,
+    "vietnamese": [
+      "ngày mai"
+    ],
+    "japanese": [
+      "明日"
+    ],
+    "displayVietnamese": "ngày mai",
+    "displayJapanese": "明日",
+    "acceptedVietnamese": [
+      "ngày mai"
+    ],
+    "acceptedJapanese": [
+      "明日",
+      "翌日"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "95",
+    "sourceNumber": 95,
+    "set": 5,
+    "vietnamese": [
+      "hôm qua"
+    ],
+    "japanese": [
+      "昨日"
+    ],
+    "displayVietnamese": "hôm qua",
+    "displayJapanese": "昨日",
+    "acceptedVietnamese": [
+      "hôm qua"
+    ],
+    "acceptedJapanese": [
+      "昨日",
+      "前日"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "96",
+    "sourceNumber": 96,
+    "set": 5,
+    "vietnamese": [
+      "bây giờ"
+    ],
+    "japanese": [
+      "今"
+    ],
+    "displayVietnamese": "bây giờ",
+    "displayJapanese": "今",
+    "acceptedVietnamese": [
+      "bây giờ"
+    ],
+    "acceptedJapanese": [
+      "今"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "97",
+    "sourceNumber": 97,
+    "set": 5,
+    "vietnamese": [
+      "ngày"
+    ],
+    "japanese": [
+      "日",
+      "日にち"
+    ],
+    "displayVietnamese": "ngày",
+    "displayJapanese": "日、日にち",
+    "acceptedVietnamese": [
+      "ngày"
+    ],
+    "acceptedJapanese": [
+      "日",
+      "日にち"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "98",
+    "sourceNumber": 98,
+    "set": 5,
+    "vietnamese": [
+      "giờ"
+    ],
+    "japanese": [
+      "時",
+      "時間"
+    ],
+    "displayVietnamese": "giờ",
+    "displayJapanese": "時、時間",
+    "acceptedVietnamese": [
+      "giờ"
+    ],
+    "acceptedJapanese": [
+      "時",
+      "時間"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "99",
+    "sourceNumber": 99,
+    "set": 5,
+    "vietnamese": [
+      "phút"
+    ],
+    "japanese": [
+      "分"
+    ],
+    "displayVietnamese": "phút",
+    "displayJapanese": "分",
+    "acceptedVietnamese": [
+      "phút"
+    ],
+    "acceptedJapanese": [
+      "分"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "100",
+    "sourceNumber": 100,
+    "set": 5,
+    "vietnamese": [
+      "lần"
+    ],
+    "japanese": [
+      "回",
+      "度",
+      "機会"
+    ],
+    "displayVietnamese": "lần",
+    "displayJapanese": "回、度、機会",
+    "acceptedVietnamese": [
+      "lần"
+    ],
+    "acceptedJapanese": [
+      "回",
+      "度",
+      "機会"
+    ],
+    "note": "",
+    "tags": [
+      "疑問・指示・時間"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "101",
+    "sourceNumber": 101,
+    "set": 6,
+    "vietnamese": [
+      "đi"
+    ],
+    "japanese": [
+      "行く"
+    ],
+    "displayVietnamese": "đi",
+    "displayJapanese": "行く",
+    "acceptedVietnamese": [
+      "đi"
+    ],
+    "acceptedJapanese": [
+      "行く",
+      "行きます"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "102",
+    "sourceNumber": 102,
+    "set": 6,
+    "vietnamese": [
+      "về"
+    ],
+    "japanese": [
+      "帰る",
+      "～について"
+    ],
+    "displayVietnamese": "về",
+    "displayJapanese": "帰る、～について",
+    "acceptedVietnamese": [
+      "về"
+    ],
+    "acceptedJapanese": [
+      "帰る",
+      "～について"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "103",
+    "sourceNumber": 103,
+    "set": 6,
+    "vietnamese": [
+      "vào"
+    ],
+    "japanese": [
+      "入る",
+      "中へ"
+    ],
+    "displayVietnamese": "vào",
+    "displayJapanese": "入る、中へ",
+    "acceptedVietnamese": [
+      "vào"
+    ],
+    "acceptedJapanese": [
+      "入る",
+      "中へ"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "104",
+    "sourceNumber": 104,
+    "set": 6,
+    "vietnamese": [
+      "ra"
+    ],
+    "japanese": [
+      "出る",
+      "外へ"
+    ],
+    "displayVietnamese": "ra",
+    "displayJapanese": "出る、外へ",
+    "acceptedVietnamese": [
+      "ra"
+    ],
+    "acceptedJapanese": [
+      "出る",
+      "外へ"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "105",
+    "sourceNumber": 105,
+    "set": 6,
+    "vietnamese": [
+      "lên"
+    ],
+    "japanese": [
+      "上がる",
+      "乗る"
+    ],
+    "displayVietnamese": "lên",
+    "displayJapanese": "上がる、乗る",
+    "acceptedVietnamese": [
+      "lên"
+    ],
+    "acceptedJapanese": [
+      "上がる",
+      "乗る"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "106",
+    "sourceNumber": 106,
+    "set": 6,
+    "vietnamese": [
+      "xuống"
+    ],
+    "japanese": [
+      "下がる",
+      "降りる"
+    ],
+    "displayVietnamese": "xuống",
+    "displayJapanese": "下がる、降りる",
+    "acceptedVietnamese": [
+      "xuống"
+    ],
+    "acceptedJapanese": [
+      "下がる",
+      "降りる"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "107",
+    "sourceNumber": 107,
+    "set": 6,
+    "vietnamese": [
+      "làm"
+    ],
+    "japanese": [
+      "する",
+      "作る",
+      "働く"
+    ],
+    "displayVietnamese": "làm",
+    "displayJapanese": "する、作る、働く",
+    "acceptedVietnamese": [
+      "làm"
+    ],
+    "acceptedJapanese": [
+      "する",
+      "作る",
+      "働く",
+      "働きます"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "108",
+    "sourceNumber": 108,
+    "set": 6,
+    "vietnamese": [
+      "ăn"
+    ],
+    "japanese": [
+      "食べる"
+    ],
+    "displayVietnamese": "ăn",
+    "displayJapanese": "食べる",
+    "acceptedVietnamese": [
+      "ăn"
+    ],
+    "acceptedJapanese": [
+      "食べる",
+      "食べます"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "109",
+    "sourceNumber": 109,
+    "set": 6,
+    "vietnamese": [
+      "uống"
+    ],
+    "japanese": [
+      "飲む"
+    ],
+    "displayVietnamese": "uống",
+    "displayJapanese": "飲む",
+    "acceptedVietnamese": [
+      "uống"
+    ],
+    "acceptedJapanese": [
+      "飲む",
+      "飲みます"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "110",
+    "sourceNumber": 110,
+    "set": 6,
+    "vietnamese": [
+      "học"
+    ],
+    "japanese": [
+      "学ぶ",
+      "勉強する"
+    ],
+    "displayVietnamese": "học",
+    "displayJapanese": "学ぶ、勉強する",
+    "acceptedVietnamese": [
+      "học"
+    ],
+    "acceptedJapanese": [
+      "学ぶ",
+      "勉強する",
+      "勉強します"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "111",
+    "sourceNumber": 111,
+    "set": 6,
+    "vietnamese": [
+      "nói"
+    ],
+    "japanese": [
+      "話す",
+      "言う"
+    ],
+    "displayVietnamese": "nói",
+    "displayJapanese": "話す、言う",
+    "acceptedVietnamese": [
+      "nói"
+    ],
+    "acceptedJapanese": [
+      "話す",
+      "言う",
+      "言います"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "112",
+    "sourceNumber": 112,
+    "set": 6,
+    "vietnamese": [
+      "nghe"
+    ],
+    "japanese": [
+      "聞く"
+    ],
+    "displayVietnamese": "nghe",
+    "displayJapanese": "聞く",
+    "acceptedVietnamese": [
+      "nghe"
+    ],
+    "acceptedJapanese": [
+      "聞く",
+      "聞きます"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "113",
+    "sourceNumber": 113,
+    "set": 6,
+    "vietnamese": [
+      "thấy"
+    ],
+    "japanese": [
+      "見える",
+      "気づく",
+      "感じる"
+    ],
+    "displayVietnamese": "thấy",
+    "displayJapanese": "見える、気づく、感じる",
+    "acceptedVietnamese": [
+      "thấy"
+    ],
+    "acceptedJapanese": [
+      "見える",
+      "気づく",
+      "感じる"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "114",
+    "sourceNumber": 114,
+    "set": 6,
+    "vietnamese": [
+      "nhìn"
+    ],
+    "japanese": [
+      "見る",
+      "目を向ける"
+    ],
+    "displayVietnamese": "nhìn",
+    "displayJapanese": "見る、目を向ける",
+    "acceptedVietnamese": [
+      "nhìn"
+    ],
+    "acceptedJapanese": [
+      "見る",
+      "目を向ける"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "115",
+    "sourceNumber": 115,
+    "set": 6,
+    "vietnamese": [
+      "xem"
+    ],
+    "japanese": [
+      "見る",
+      "確認する"
+    ],
+    "displayVietnamese": "xem",
+    "displayJapanese": "見る、確認する",
+    "acceptedVietnamese": [
+      "xem"
+    ],
+    "acceptedJapanese": [
+      "見る",
+      "確認する"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "116",
+    "sourceNumber": 116,
+    "set": 6,
+    "vietnamese": [
+      "đọc"
+    ],
+    "japanese": [
+      "読む"
+    ],
+    "displayVietnamese": "đọc",
+    "displayJapanese": "読む",
+    "acceptedVietnamese": [
+      "đọc"
+    ],
+    "acceptedJapanese": [
+      "読む",
+      "読みます"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "117",
+    "sourceNumber": 117,
+    "set": 6,
+    "vietnamese": [
+      "viết"
+    ],
+    "japanese": [
+      "書く"
+    ],
+    "displayVietnamese": "viết",
+    "displayJapanese": "書く",
+    "acceptedVietnamese": [
+      "viết"
+    ],
+    "acceptedJapanese": [
+      "書く",
+      "書きます"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "118",
+    "sourceNumber": 118,
+    "set": 6,
+    "vietnamese": [
+      "biết"
+    ],
+    "japanese": [
+      "知っている",
+      "できる"
+    ],
+    "displayVietnamese": "biết",
+    "displayJapanese": "知っている、できる",
+    "acceptedVietnamese": [
+      "biết"
+    ],
+    "acceptedJapanese": [
+      "知っている",
+      "できる",
+      "知る"
+    ],
+    "note": "能力を表す場合にも使う。",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "119",
+    "sourceNumber": 119,
+    "set": 6,
+    "vietnamese": [
+      "hiểu"
+    ],
+    "japanese": [
+      "理解する"
+    ],
+    "displayVietnamese": "hiểu",
+    "displayJapanese": "理解する",
+    "acceptedVietnamese": [
+      "hiểu"
+    ],
+    "acceptedJapanese": [
+      "理解する",
+      "分かる"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "120",
+    "sourceNumber": 120,
+    "set": 6,
+    "vietnamese": [
+      "nghĩ"
+    ],
+    "japanese": [
+      "考える",
+      "思う"
+    ],
+    "displayVietnamese": "nghĩ",
+    "displayJapanese": "考える、思う",
+    "acceptedVietnamese": [
+      "nghĩ"
+    ],
+    "acceptedJapanese": [
+      "考える",
+      "思う"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "121",
+    "sourceNumber": 121,
+    "set": 7,
+    "vietnamese": [
+      "nhớ"
+    ],
+    "japanese": [
+      "覚えている",
+      "思い出す",
+      "恋しく思う"
+    ],
+    "displayVietnamese": "nhớ",
+    "displayJapanese": "覚えている、思い出す、恋しく思う",
+    "acceptedVietnamese": [
+      "nhớ"
+    ],
+    "acceptedJapanese": [
+      "覚えている",
+      "思い出す",
+      "恋しく思う"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "122",
+    "sourceNumber": 122,
+    "set": 7,
+    "vietnamese": [
+      "quên"
+    ],
+    "japanese": [
+      "忘れる"
+    ],
+    "displayVietnamese": "quên",
+    "displayJapanese": "忘れる",
+    "acceptedVietnamese": [
+      "quên"
+    ],
+    "acceptedJapanese": [
+      "忘れる"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "123",
+    "sourceNumber": 123,
+    "set": 7,
+    "vietnamese": [
+      "thích"
+    ],
+    "japanese": [
+      "好きである",
+      "好む"
+    ],
+    "displayVietnamese": "thích",
+    "displayJapanese": "好きである、好む",
+    "acceptedVietnamese": [
+      "thích"
+    ],
+    "acceptedJapanese": [
+      "好きである",
+      "好む"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "124",
+    "sourceNumber": 124,
+    "set": 7,
+    "vietnamese": [
+      "gặp"
+    ],
+    "japanese": [
+      "会う"
+    ],
+    "displayVietnamese": "gặp",
+    "displayJapanese": "会う",
+    "acceptedVietnamese": [
+      "gặp"
+    ],
+    "acceptedJapanese": [
+      "会う"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "125",
+    "sourceNumber": 125,
+    "set": 7,
+    "vietnamese": [
+      "gọi"
+    ],
+    "japanese": [
+      "呼ぶ",
+      "電話する",
+      "～と呼ぶ"
+    ],
+    "displayVietnamese": "gọi",
+    "displayJapanese": "呼ぶ、電話する、～と呼ぶ",
+    "acceptedVietnamese": [
+      "gọi"
+    ],
+    "acceptedJapanese": [
+      "呼ぶ",
+      "電話する",
+      "～と呼ぶ"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "126",
+    "sourceNumber": 126,
+    "set": 7,
+    "vietnamese": [
+      "hỏi"
+    ],
+    "japanese": [
+      "質問する",
+      "尋ねる"
+    ],
+    "displayVietnamese": "hỏi",
+    "displayJapanese": "質問する、尋ねる",
+    "acceptedVietnamese": [
+      "hỏi"
+    ],
+    "acceptedJapanese": [
+      "質問する",
+      "尋ねる"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "127",
+    "sourceNumber": 127,
+    "set": 7,
+    "vietnamese": [
+      "trả lời"
+    ],
+    "japanese": [
+      "答える",
+      "返事をする"
+    ],
+    "displayVietnamese": "trả lời",
+    "displayJapanese": "答える、返事をする",
+    "acceptedVietnamese": [
+      "trả lời"
+    ],
+    "acceptedJapanese": [
+      "答える",
+      "返事をする"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "128",
+    "sourceNumber": 128,
+    "set": 7,
+    "vietnamese": [
+      "chờ",
+      "đợi"
+    ],
+    "japanese": [
+      "待つ"
+    ],
+    "displayVietnamese": "chờ / đợi",
+    "displayJapanese": "待つ",
+    "acceptedVietnamese": [
+      "chờ",
+      "đợi"
+    ],
+    "acceptedJapanese": [
+      "待つ",
+      "待ちます"
+    ],
+    "note": "chờ と đợi を許容回答とする。",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "129",
+    "sourceNumber": 129,
+    "set": 7,
+    "vietnamese": [
+      "lấy"
+    ],
+    "japanese": [
+      "取る",
+      "入手する",
+      "持ってくる"
+    ],
+    "displayVietnamese": "lấy",
+    "displayJapanese": "取る、入手する、持ってくる",
+    "acceptedVietnamese": [
+      "lấy"
+    ],
+    "acceptedJapanese": [
+      "取る",
+      "入手する",
+      "持ってくる"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "130",
+    "sourceNumber": 130,
+    "set": 7,
+    "vietnamese": [
+      "đưa"
+    ],
+    "japanese": [
+      "渡す",
+      "連れていく"
+    ],
+    "displayVietnamese": "đưa",
+    "displayJapanese": "渡す、連れていく",
+    "acceptedVietnamese": [
+      "đưa"
+    ],
+    "acceptedJapanese": [
+      "渡す",
+      "連れていく"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "131",
+    "sourceNumber": 131,
+    "set": 7,
+    "vietnamese": [
+      "mang"
+    ],
+    "japanese": [
+      "持っていく",
+      "持参する",
+      "身に着ける"
+    ],
+    "displayVietnamese": "mang",
+    "displayJapanese": "持っていく、持参する、身に着ける",
+    "acceptedVietnamese": [
+      "mang"
+    ],
+    "acceptedJapanese": [
+      "持っていく",
+      "持参する",
+      "身に着ける"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "132",
+    "sourceNumber": 132,
+    "set": 7,
+    "vietnamese": [
+      "gửi"
+    ],
+    "japanese": [
+      "送る",
+      "預ける"
+    ],
+    "displayVietnamese": "gửi",
+    "displayJapanese": "送る、預ける",
+    "acceptedVietnamese": [
+      "gửi"
+    ],
+    "acceptedJapanese": [
+      "送る",
+      "預ける"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "133",
+    "sourceNumber": 133,
+    "set": 7,
+    "vietnamese": [
+      "nhận"
+    ],
+    "japanese": [
+      "受け取る",
+      "認識する"
+    ],
+    "displayVietnamese": "nhận",
+    "displayJapanese": "受け取る、認識する",
+    "acceptedVietnamese": [
+      "nhận"
+    ],
+    "acceptedJapanese": [
+      "受け取る",
+      "認識する"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "134",
+    "sourceNumber": 134,
+    "set": 7,
+    "vietnamese": [
+      "mua"
+    ],
+    "japanese": [
+      "買う"
+    ],
+    "displayVietnamese": "mua",
+    "displayJapanese": "買う",
+    "acceptedVietnamese": [
+      "mua"
+    ],
+    "acceptedJapanese": [
+      "買う",
+      "買います"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "135",
+    "sourceNumber": 135,
+    "set": 7,
+    "vietnamese": [
+      "bán"
+    ],
+    "japanese": [
+      "売る"
+    ],
+    "displayVietnamese": "bán",
+    "displayJapanese": "売る",
+    "acceptedVietnamese": [
+      "bán"
+    ],
+    "acceptedJapanese": [
+      "売る",
+      "売ります"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "136",
+    "sourceNumber": 136,
+    "set": 7,
+    "vietnamese": [
+      "dùng"
+    ],
+    "japanese": [
+      "使う"
+    ],
+    "displayVietnamese": "dùng",
+    "displayJapanese": "使う",
+    "acceptedVietnamese": [
+      "dùng"
+    ],
+    "acceptedJapanese": [
+      "使う",
+      "使用する"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "137",
+    "sourceNumber": 137,
+    "set": 7,
+    "vietnamese": [
+      "tìm"
+    ],
+    "japanese": [
+      "探す"
+    ],
+    "displayVietnamese": "tìm",
+    "displayJapanese": "探す",
+    "acceptedVietnamese": [
+      "tìm"
+    ],
+    "acceptedJapanese": [
+      "探す",
+      "探します"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "138",
+    "sourceNumber": 138,
+    "set": 7,
+    "vietnamese": [
+      "giúp"
+    ],
+    "japanese": [
+      "助ける"
+    ],
+    "displayVietnamese": "giúp",
+    "displayJapanese": "助ける",
+    "acceptedVietnamese": [
+      "giúp"
+    ],
+    "acceptedJapanese": [
+      "助ける"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "139",
+    "sourceNumber": 139,
+    "set": 7,
+    "vietnamese": [
+      "nhờ"
+    ],
+    "japanese": [
+      "～してもらう",
+      "頼む",
+      "～のおかげで"
+    ],
+    "displayVietnamese": "nhờ",
+    "displayJapanese": "～してもらう、頼む、～のおかげで",
+    "acceptedVietnamese": [
+      "nhờ"
+    ],
+    "acceptedJapanese": [
+      "～してもらう",
+      "頼む",
+      "～のおかげで"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "140",
+    "sourceNumber": 140,
+    "set": 7,
+    "vietnamese": [
+      "xin phép"
+    ],
+    "japanese": [
+      "許可を求める",
+      "失礼して～する"
+    ],
+    "displayVietnamese": "xin phép",
+    "displayJapanese": "許可を求める、失礼して～する",
+    "acceptedVietnamese": [
+      "xin phép"
+    ],
+    "acceptedJapanese": [
+      "許可を求める",
+      "失礼して～する"
+    ],
+    "note": "",
+    "tags": [
+      "基本動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "141",
+    "sourceNumber": 141,
+    "set": 8,
+    "vietnamese": [
+      "mời"
+    ],
+    "japanese": [
+      "招待する",
+      "どうぞ～してください"
+    ],
+    "displayVietnamese": "mời",
+    "displayJapanese": "招待する、どうぞ～してください",
+    "acceptedVietnamese": [
+      "mời"
+    ],
+    "acceptedJapanese": [
+      "招待する",
+      "どうぞ～してください"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "142-a",
+    "sourceNumber": 142,
+    "set": 8,
+    "vietnamese": [
+      "mở"
+    ],
+    "japanese": [
+      "開ける"
+    ],
+    "displayVietnamese": "mở",
+    "displayJapanese": "開ける",
+    "acceptedVietnamese": [
+      "mở"
+    ],
+    "acceptedJapanese": [
+      "開ける"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "142-b",
+    "sourceNumber": 142,
+    "set": 8,
+    "vietnamese": [
+      "đóng"
+    ],
+    "japanese": [
+      "閉める"
+    ],
+    "displayVietnamese": "đóng",
+    "displayJapanese": "閉める",
+    "acceptedVietnamese": [
+      "đóng"
+    ],
+    "acceptedJapanese": [
+      "閉める"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "143-a",
+    "sourceNumber": 143,
+    "set": 8,
+    "vietnamese": [
+      "đứng"
+    ],
+    "japanese": [
+      "立つ"
+    ],
+    "displayVietnamese": "đứng",
+    "displayJapanese": "立つ",
+    "acceptedVietnamese": [
+      "đứng"
+    ],
+    "acceptedJapanese": [
+      "立つ"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "143-b",
+    "sourceNumber": 143,
+    "set": 8,
+    "vietnamese": [
+      "ngồi"
+    ],
+    "japanese": [
+      "座る"
+    ],
+    "displayVietnamese": "ngồi",
+    "displayJapanese": "座る",
+    "acceptedVietnamese": [
+      "ngồi"
+    ],
+    "acceptedJapanese": [
+      "座る"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "144",
+    "sourceNumber": 144,
+    "set": 8,
+    "vietnamese": [
+      "ngủ"
+    ],
+    "japanese": [
+      "寝る"
+    ],
+    "displayVietnamese": "ngủ",
+    "displayJapanese": "寝る",
+    "acceptedVietnamese": [
+      "ngủ"
+    ],
+    "acceptedJapanese": [
+      "寝る",
+      "眠る"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "145",
+    "sourceNumber": 145,
+    "set": 8,
+    "vietnamese": [
+      "xong"
+    ],
+    "japanese": [
+      "終わる",
+      "完了した"
+    ],
+    "displayVietnamese": "xong",
+    "displayJapanese": "終わる、完了した",
+    "acceptedVietnamese": [
+      "xong"
+    ],
+    "acceptedJapanese": [
+      "終わる",
+      "完了した"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "146",
+    "sourceNumber": 146,
+    "set": 8,
+    "vietnamese": [
+      "đi bộ"
+    ],
+    "japanese": [
+      "歩く"
+    ],
+    "displayVietnamese": "đi bộ",
+    "displayJapanese": "歩く",
+    "acceptedVietnamese": [
+      "đi bộ"
+    ],
+    "acceptedJapanese": [
+      "歩く",
+      "徒歩で行く"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "147",
+    "sourceNumber": 147,
+    "set": 8,
+    "vietnamese": [
+      "lái xe"
+    ],
+    "japanese": [
+      "運転する"
+    ],
+    "displayVietnamese": "lái xe",
+    "displayJapanese": "運転する",
+    "acceptedVietnamese": [
+      "lái xe"
+    ],
+    "acceptedJapanese": [
+      "運転する"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "148",
+    "sourceNumber": 148,
+    "set": 8,
+    "vietnamese": [
+      "chở"
+    ],
+    "japanese": [
+      "乗り物で人・物を運ぶ"
+    ],
+    "displayVietnamese": "chở",
+    "displayJapanese": "乗り物で人・物を運ぶ",
+    "acceptedVietnamese": [
+      "chở"
+    ],
+    "acceptedJapanese": [
+      "乗り物で人・物を運ぶ"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "149",
+    "sourceNumber": 149,
+    "set": 8,
+    "vietnamese": [
+      "trả"
+    ],
+    "japanese": [
+      "返す",
+      "支払う"
+    ],
+    "displayVietnamese": "trả",
+    "displayJapanese": "返す、支払う",
+    "acceptedVietnamese": [
+      "trả"
+    ],
+    "acceptedJapanese": [
+      "返す",
+      "支払う"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "150",
+    "sourceNumber": 150,
+    "set": 8,
+    "vietnamese": [
+      "thanh toán"
+    ],
+    "japanese": [
+      "支払う",
+      "決済する"
+    ],
+    "displayVietnamese": "thanh toán",
+    "displayJapanese": "支払う、決済する",
+    "acceptedVietnamese": [
+      "thanh toán"
+    ],
+    "acceptedJapanese": [
+      "支払う",
+      "決済する",
+      "決済"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "151",
+    "sourceNumber": 151,
+    "set": 8,
+    "vietnamese": [
+      "đặt"
+    ],
+    "japanese": [
+      "置く",
+      "予約する",
+      "注文する",
+      "設定する"
+    ],
+    "displayVietnamese": "đặt",
+    "displayJapanese": "置く、予約する、注文する、設定する",
+    "acceptedVietnamese": [
+      "đặt"
+    ],
+    "acceptedJapanese": [
+      "置く",
+      "予約する",
+      "注文する",
+      "設定する"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "152",
+    "sourceNumber": 152,
+    "set": 8,
+    "vietnamese": [
+      "kiểm tra"
+    ],
+    "japanese": [
+      "確認する",
+      "検査する"
+    ],
+    "displayVietnamese": "kiểm tra",
+    "displayJapanese": "確認する、検査する",
+    "acceptedVietnamese": [
+      "kiểm tra"
+    ],
+    "acceptedJapanese": [
+      "確認する",
+      "検査する",
+      "チェックする"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "153",
+    "sourceNumber": 153,
+    "set": 8,
+    "vietnamese": [
+      "xác nhận"
+    ],
+    "japanese": [
+      "確認・確定する"
+    ],
+    "displayVietnamese": "xác nhận",
+    "displayJapanese": "確認・確定する",
+    "acceptedVietnamese": [
+      "xác nhận"
+    ],
+    "acceptedJapanese": [
+      "確認・確定する"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "154",
+    "sourceNumber": 154,
+    "set": 8,
+    "vietnamese": [
+      "chuẩn bị"
+    ],
+    "japanese": [
+      "準備する"
+    ],
+    "displayVietnamese": "chuẩn bị",
+    "displayJapanese": "準備する",
+    "acceptedVietnamese": [
+      "chuẩn bị"
+    ],
+    "acceptedJapanese": [
+      "準備する",
+      "用意する"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "155",
+    "sourceNumber": 155,
+    "set": 8,
+    "vietnamese": [
+      "bắt đầu"
+    ],
+    "japanese": [
+      "始める",
+      "始まる"
+    ],
+    "displayVietnamese": "bắt đầu",
+    "displayJapanese": "始める、始まる",
+    "acceptedVietnamese": [
+      "bắt đầu"
+    ],
+    "acceptedJapanese": [
+      "始める",
+      "始まる"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "156",
+    "sourceNumber": 156,
+    "set": 8,
+    "vietnamese": [
+      "kết thúc"
+    ],
+    "japanese": [
+      "終える",
+      "終了する"
+    ],
+    "displayVietnamese": "kết thúc",
+    "displayJapanese": "終える、終了する",
+    "acceptedVietnamese": [
+      "kết thúc"
+    ],
+    "acceptedJapanese": [
+      "終える",
+      "終了する"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "157",
+    "sourceNumber": 157,
+    "set": 8,
+    "vietnamese": [
+      "tiếp tục"
+    ],
+    "japanese": [
+      "続ける"
+    ],
+    "displayVietnamese": "tiếp tục",
+    "displayJapanese": "続ける",
+    "acceptedVietnamese": [
+      "tiếp tục"
+    ],
+    "acceptedJapanese": [
+      "続ける",
+      "継続する"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "158",
+    "sourceNumber": 158,
+    "set": 8,
+    "vietnamese": [
+      "sửa"
+    ],
+    "japanese": [
+      "修理する",
+      "訂正する"
+    ],
+    "displayVietnamese": "sửa",
+    "displayJapanese": "修理する、訂正する",
+    "acceptedVietnamese": [
+      "sửa"
+    ],
+    "acceptedJapanese": [
+      "修理する",
+      "訂正する"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "159",
+    "sourceNumber": 159,
+    "set": 8,
+    "vietnamese": [
+      "thay đổi"
+    ],
+    "japanese": [
+      "変更する",
+      "変わる"
+    ],
+    "displayVietnamese": "thay đổi",
+    "displayJapanese": "変更する、変わる",
+    "acceptedVietnamese": [
+      "thay đổi"
+    ],
+    "acceptedJapanese": [
+      "変更する",
+      "変わる"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "160-a",
+    "sourceNumber": 160,
+    "set": 8,
+    "vietnamese": [
+      "tăng"
+    ],
+    "japanese": [
+      "増える",
+      "増やす"
+    ],
+    "displayVietnamese": "tăng",
+    "displayJapanese": "増える、増やす",
+    "acceptedVietnamese": [
+      "tăng"
+    ],
+    "acceptedJapanese": [
+      "増える",
+      "増やす"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "160-b",
+    "sourceNumber": 160,
+    "set": 8,
+    "vietnamese": [
+      "giảm"
+    ],
+    "japanese": [
+      "減る",
+      "減らす"
+    ],
+    "displayVietnamese": "giảm",
+    "displayJapanese": "減る、減らす",
+    "acceptedVietnamese": [
+      "giảm"
+    ],
+    "acceptedJapanese": [
+      "減る",
+      "減らす"
+    ],
+    "note": "",
+    "tags": [
+      "生活・仕事の動詞"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "161",
+    "sourceNumber": 161,
+    "set": 9,
+    "vietnamese": [
+      "báo cáo"
+    ],
+    "japanese": [
+      "報告する",
+      "報告書"
+    ],
+    "displayVietnamese": "báo cáo",
+    "displayJapanese": "報告する、報告書",
+    "acceptedVietnamese": [
+      "báo cáo"
+    ],
+    "acceptedJapanese": [
+      "報告する",
+      "報告書"
+    ],
+    "note": "動詞と名詞の両方で使う。",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "162",
+    "sourceNumber": 162,
+    "set": 9,
+    "vietnamese": [
+      "họp"
+    ],
+    "japanese": [
+      "会議をする"
+    ],
+    "displayVietnamese": "họp",
+    "displayJapanese": "会議をする",
+    "acceptedVietnamese": [
+      "họp"
+    ],
+    "acceptedJapanese": [
+      "会議をする"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "163",
+    "sourceNumber": 163,
+    "set": 9,
+    "vietnamese": [
+      "tuần"
+    ],
+    "japanese": [
+      "週"
+    ],
+    "displayVietnamese": "tuần",
+    "displayJapanese": "週",
+    "acceptedVietnamese": [
+      "tuần"
+    ],
+    "acceptedJapanese": [
+      "週"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "164",
+    "sourceNumber": 164,
+    "set": 9,
+    "vietnamese": [
+      "tháng"
+    ],
+    "japanese": [
+      "月"
+    ],
+    "displayVietnamese": "tháng",
+    "displayJapanese": "月",
+    "acceptedVietnamese": [
+      "tháng"
+    ],
+    "acceptedJapanese": [
+      "月"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "165",
+    "sourceNumber": 165,
+    "set": 9,
+    "vietnamese": [
+      "năm"
+    ],
+    "japanese": [
+      "年",
+      "5"
+    ],
+    "displayVietnamese": "năm",
+    "displayJapanese": "年、5",
+    "acceptedVietnamese": [
+      "năm"
+    ],
+    "acceptedJapanese": [
+      "年",
+      "5"
+    ],
+    "note": "「年」と数字の「5」の両方を表す。",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "166",
+    "sourceNumber": 166,
+    "set": 9,
+    "vietnamese": [
+      "sáng"
+    ],
+    "japanese": [
+      "朝",
+      "午前"
+    ],
+    "displayVietnamese": "sáng",
+    "displayJapanese": "朝、午前",
+    "acceptedVietnamese": [
+      "sáng"
+    ],
+    "acceptedJapanese": [
+      "朝",
+      "午前"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "167",
+    "sourceNumber": 167,
+    "set": 9,
+    "vietnamese": [
+      "chiều"
+    ],
+    "japanese": [
+      "午後"
+    ],
+    "displayVietnamese": "chiều",
+    "displayJapanese": "午後",
+    "acceptedVietnamese": [
+      "chiều"
+    ],
+    "acceptedJapanese": [
+      "午後"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "168",
+    "sourceNumber": 168,
+    "set": 9,
+    "vietnamese": [
+      "tối"
+    ],
+    "japanese": [
+      "夜",
+      "夕方"
+    ],
+    "displayVietnamese": "tối",
+    "displayJapanese": "夜、夕方",
+    "acceptedVietnamese": [
+      "tối"
+    ],
+    "acceptedJapanese": [
+      "夜",
+      "夕方"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "169",
+    "sourceNumber": 169,
+    "set": 9,
+    "vietnamese": [
+      "nhà"
+    ],
+    "japanese": [
+      "家"
+    ],
+    "displayVietnamese": "nhà",
+    "displayJapanese": "家",
+    "acceptedVietnamese": [
+      "nhà"
+    ],
+    "acceptedJapanese": [
+      "家"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "170",
+    "sourceNumber": 170,
+    "set": 9,
+    "vietnamese": [
+      "phòng"
+    ],
+    "japanese": [
+      "部屋",
+      "部署"
+    ],
+    "displayVietnamese": "phòng",
+    "displayJapanese": "部屋、部署",
+    "acceptedVietnamese": [
+      "phòng"
+    ],
+    "acceptedJapanese": [
+      "部屋",
+      "部署"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "171",
+    "sourceNumber": 171,
+    "set": 9,
+    "vietnamese": [
+      "công ty"
+    ],
+    "japanese": [
+      "会社"
+    ],
+    "displayVietnamese": "công ty",
+    "displayJapanese": "会社",
+    "acceptedVietnamese": [
+      "công ty"
+    ],
+    "acceptedJapanese": [
+      "会社",
+      "企業"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "172",
+    "sourceNumber": 172,
+    "set": 9,
+    "vietnamese": [
+      "bệnh viện"
+    ],
+    "japanese": [
+      "病院"
+    ],
+    "displayVietnamese": "bệnh viện",
+    "displayJapanese": "病院",
+    "acceptedVietnamese": [
+      "bệnh viện"
+    ],
+    "acceptedJapanese": [
+      "病院"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "173",
+    "sourceNumber": 173,
+    "set": 9,
+    "vietnamese": [
+      "nhà vệ sinh"
+    ],
+    "japanese": [
+      "トイレ"
+    ],
+    "displayVietnamese": "nhà vệ sinh",
+    "displayJapanese": "トイレ",
+    "acceptedVietnamese": [
+      "nhà vệ sinh"
+    ],
+    "acceptedJapanese": [
+      "トイレ",
+      "お手洗い"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "174",
+    "sourceNumber": 174,
+    "set": 9,
+    "vietnamese": [
+      "đường"
+    ],
+    "japanese": [
+      "道",
+      "通り",
+      "方法"
+    ],
+    "displayVietnamese": "đường",
+    "displayJapanese": "道、通り、方法",
+    "acceptedVietnamese": [
+      "đường"
+    ],
+    "acceptedJapanese": [
+      "道",
+      "通り",
+      "方法"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "175",
+    "sourceNumber": 175,
+    "set": 9,
+    "vietnamese": [
+      "xe"
+    ],
+    "japanese": [
+      "車両",
+      "乗り物"
+    ],
+    "displayVietnamese": "xe",
+    "displayJapanese": "車両、乗り物",
+    "acceptedVietnamese": [
+      "xe"
+    ],
+    "acceptedJapanese": [
+      "車両",
+      "乗り物"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "176",
+    "sourceNumber": 176,
+    "set": 9,
+    "vietnamese": [
+      "tài xế"
+    ],
+    "japanese": [
+      "運転手"
+    ],
+    "displayVietnamese": "tài xế",
+    "displayJapanese": "運転手",
+    "acceptedVietnamese": [
+      "tài xế"
+    ],
+    "acceptedJapanese": [
+      "運転手",
+      "ドライバー"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "177",
+    "sourceNumber": 177,
+    "set": 9,
+    "vietnamese": [
+      "điện thoại"
+    ],
+    "japanese": [
+      "電話",
+      "スマートフォン"
+    ],
+    "displayVietnamese": "điện thoại",
+    "displayJapanese": "電話、スマートフォン",
+    "acceptedVietnamese": [
+      "điện thoại"
+    ],
+    "acceptedJapanese": [
+      "電話",
+      "スマートフォン"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "178",
+    "sourceNumber": 178,
+    "set": 9,
+    "vietnamese": [
+      "máy tính"
+    ],
+    "japanese": [
+      "コンピューター"
+    ],
+    "displayVietnamese": "máy tính",
+    "displayJapanese": "コンピューター",
+    "acceptedVietnamese": [
+      "máy tính"
+    ],
+    "acceptedJapanese": [
+      "コンピューター"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "179",
+    "sourceNumber": 179,
+    "set": 9,
+    "vietnamese": [
+      "tiền"
+    ],
+    "japanese": [
+      "お金"
+    ],
+    "displayVietnamese": "tiền",
+    "displayJapanese": "お金",
+    "acceptedVietnamese": [
+      "tiền"
+    ],
+    "acceptedJapanese": [
+      "お金",
+      "金銭"
+    ],
+    "note": "",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "180",
+    "sourceNumber": 180,
+    "set": 9,
+    "vietnamese": [
+      "nước"
+    ],
+    "japanese": [
+      "水",
+      "国"
+    ],
+    "displayVietnamese": "nước",
+    "displayJapanese": "水、国",
+    "acceptedVietnamese": [
+      "nước"
+    ],
+    "acceptedJapanese": [
+      "水",
+      "国"
+    ],
+    "note": "「水」と「国」の両方を表す。",
+    "tags": [
+      "時間・場所・仕事"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "181-a",
+    "sourceNumber": 181,
+    "set": 10,
+    "vietnamese": [
+      "tài liệu"
+    ],
+    "japanese": [
+      "資料",
+      "書類"
+    ],
+    "displayVietnamese": "tài liệu",
+    "displayJapanese": "資料、書類",
+    "acceptedVietnamese": [
+      "tài liệu"
+    ],
+    "acceptedJapanese": [
+      "資料",
+      "書類"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "181-b",
+    "sourceNumber": 181,
+    "set": 10,
+    "vietnamese": [
+      "file"
+    ],
+    "japanese": [
+      "ファイル"
+    ],
+    "displayVietnamese": "file",
+    "displayJapanese": "ファイル",
+    "acceptedVietnamese": [
+      "file"
+    ],
+    "acceptedJapanese": [
+      "ファイル"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "182",
+    "sourceNumber": 182,
+    "set": 10,
+    "vietnamese": [
+      "lịch"
+    ],
+    "japanese": [
+      "予定",
+      "日程",
+      "カレンダー"
+    ],
+    "displayVietnamese": "lịch",
+    "displayJapanese": "予定、日程、カレンダー",
+    "acceptedVietnamese": [
+      "lịch"
+    ],
+    "acceptedJapanese": [
+      "予定",
+      "日程",
+      "カレンダー"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "183",
+    "sourceNumber": 183,
+    "set": 10,
+    "vietnamese": [
+      "việc"
+    ],
+    "japanese": [
+      "仕事",
+      "用事",
+      "事柄"
+    ],
+    "displayVietnamese": "việc",
+    "displayJapanese": "仕事、用事、事柄",
+    "acceptedVietnamese": [
+      "việc"
+    ],
+    "acceptedJapanese": [
+      "仕事",
+      "用事",
+      "事柄"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "184",
+    "sourceNumber": 184,
+    "set": 10,
+    "vietnamese": [
+      "thông tin"
+    ],
+    "japanese": [
+      "情報"
+    ],
+    "displayVietnamese": "thông tin",
+    "displayJapanese": "情報",
+    "acceptedVietnamese": [
+      "thông tin"
+    ],
+    "acceptedJapanese": [
+      "情報"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "185",
+    "sourceNumber": 185,
+    "set": 10,
+    "vietnamese": [
+      "vấn đề"
+    ],
+    "japanese": [
+      "問題",
+      "課題",
+      "事柄"
+    ],
+    "displayVietnamese": "vấn đề",
+    "displayJapanese": "問題、課題、事柄",
+    "acceptedVietnamese": [
+      "vấn đề"
+    ],
+    "acceptedJapanese": [
+      "問題",
+      "課題",
+      "事柄"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "186",
+    "sourceNumber": 186,
+    "set": 10,
+    "vietnamese": [
+      "tốt"
+    ],
+    "japanese": [
+      "良い"
+    ],
+    "displayVietnamese": "tốt",
+    "displayJapanese": "良い",
+    "acceptedVietnamese": [
+      "tốt"
+    ],
+    "acceptedJapanese": [
+      "良い",
+      "よい"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "187",
+    "sourceNumber": 187,
+    "set": 10,
+    "vietnamese": [
+      "lớn",
+      "to"
+    ],
+    "japanese": [
+      "大きい"
+    ],
+    "displayVietnamese": "lớn / to",
+    "displayJapanese": "大きい",
+    "acceptedVietnamese": [
+      "lớn",
+      "to"
+    ],
+    "acceptedJapanese": [
+      "大きい"
+    ],
+    "note": "lớn と to を許容回答とする。",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "188",
+    "sourceNumber": 188,
+    "set": 10,
+    "vietnamese": [
+      "nhỏ"
+    ],
+    "japanese": [
+      "小さい"
+    ],
+    "displayVietnamese": "nhỏ",
+    "displayJapanese": "小さい",
+    "acceptedVietnamese": [
+      "nhỏ"
+    ],
+    "acceptedJapanese": [
+      "小さい"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "189",
+    "sourceNumber": 189,
+    "set": 10,
+    "vietnamese": [
+      "mới"
+    ],
+    "japanese": [
+      "新しい",
+      "たった今～した"
+    ],
+    "displayVietnamese": "mới",
+    "displayJapanese": "新しい、たった今～した",
+    "acceptedVietnamese": [
+      "mới"
+    ],
+    "acceptedJapanese": [
+      "新しい",
+      "たった今～した"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "190",
+    "sourceNumber": 190,
+    "set": 10,
+    "vietnamese": [
+      "nhanh"
+    ],
+    "japanese": [
+      "速い",
+      "早く"
+    ],
+    "displayVietnamese": "nhanh",
+    "displayJapanese": "速い、早く",
+    "acceptedVietnamese": [
+      "nhanh"
+    ],
+    "acceptedJapanese": [
+      "速い",
+      "早く"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "191",
+    "sourceNumber": 191,
+    "set": 10,
+    "vietnamese": [
+      "chậm"
+    ],
+    "japanese": [
+      "遅い",
+      "ゆっくり"
+    ],
+    "displayVietnamese": "chậm",
+    "displayJapanese": "遅い、ゆっくり",
+    "acceptedVietnamese": [
+      "chậm"
+    ],
+    "acceptedJapanese": [
+      "遅い",
+      "ゆっくり"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "192",
+    "sourceNumber": 192,
+    "set": 10,
+    "vietnamese": [
+      "dễ"
+    ],
+    "japanese": [
+      "簡単な",
+      "～しやすい"
+    ],
+    "displayVietnamese": "dễ",
+    "displayJapanese": "簡単な、～しやすい",
+    "acceptedVietnamese": [
+      "dễ"
+    ],
+    "acceptedJapanese": [
+      "簡単な",
+      "～しやすい"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "193",
+    "sourceNumber": 193,
+    "set": 10,
+    "vietnamese": [
+      "khó"
+    ],
+    "japanese": [
+      "難しい",
+      "～しにくい"
+    ],
+    "displayVietnamese": "khó",
+    "displayJapanese": "難しい、～しにくい",
+    "acceptedVietnamese": [
+      "khó"
+    ],
+    "acceptedJapanese": [
+      "難しい",
+      "～しにくい"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "194",
+    "sourceNumber": 194,
+    "set": 10,
+    "vietnamese": [
+      "đúng"
+    ],
+    "japanese": [
+      "正しい",
+      "時間どおり"
+    ],
+    "displayVietnamese": "đúng",
+    "displayJapanese": "正しい、時間どおり",
+    "acceptedVietnamese": [
+      "đúng"
+    ],
+    "acceptedJapanese": [
+      "正しい",
+      "時間どおり"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "195",
+    "sourceNumber": 195,
+    "set": 10,
+    "vietnamese": [
+      "sai"
+    ],
+    "japanese": [
+      "間違っている"
+    ],
+    "displayVietnamese": "sai",
+    "displayJapanese": "間違っている",
+    "acceptedVietnamese": [
+      "sai"
+    ],
+    "acceptedJapanese": [
+      "間違っている"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "196",
+    "sourceNumber": 196,
+    "set": 10,
+    "vietnamese": [
+      "gần"
+    ],
+    "japanese": [
+      "近い"
+    ],
+    "displayVietnamese": "gần",
+    "displayJapanese": "近い",
+    "acceptedVietnamese": [
+      "gần"
+    ],
+    "acceptedJapanese": [
+      "近い"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "197",
+    "sourceNumber": 197,
+    "set": 10,
+    "vietnamese": [
+      "xa"
+    ],
+    "japanese": [
+      "遠い"
+    ],
+    "displayVietnamese": "xa",
+    "displayJapanese": "遠い",
+    "acceptedVietnamese": [
+      "xa"
+    ],
+    "acceptedJapanese": [
+      "遠い"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "198-a",
+    "sourceNumber": 198,
+    "set": 10,
+    "vietnamese": [
+      "đắt"
+    ],
+    "japanese": [
+      "値段が高い"
+    ],
+    "displayVietnamese": "đắt",
+    "displayJapanese": "値段が高い",
+    "acceptedVietnamese": [
+      "đắt"
+    ],
+    "acceptedJapanese": [
+      "値段が高い"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "198-b",
+    "sourceNumber": 198,
+    "set": 10,
+    "vietnamese": [
+      "rẻ"
+    ],
+    "japanese": [
+      "安い"
+    ],
+    "displayVietnamese": "rẻ",
+    "displayJapanese": "安い",
+    "acceptedVietnamese": [
+      "rẻ"
+    ],
+    "acceptedJapanese": [
+      "安い"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "199",
+    "sourceNumber": 199,
+    "set": 10,
+    "vietnamese": [
+      "mệt"
+    ],
+    "japanese": [
+      "疲れている"
+    ],
+    "displayVietnamese": "mệt",
+    "displayJapanese": "疲れている",
+    "acceptedVietnamese": [
+      "mệt"
+    ],
+    "acceptedJapanese": [
+      "疲れている",
+      "疲れた"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "200-a",
+    "sourceNumber": 200,
+    "set": 10,
+    "vietnamese": [
+      "bận"
+    ],
+    "japanese": [
+      "忙しい"
+    ],
+    "displayVietnamese": "bận",
+    "displayJapanese": "忙しい",
+    "acceptedVietnamese": [
+      "bận"
+    ],
+    "acceptedJapanese": [
+      "忙しい"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  },
+  {
+    "id": "200-b",
+    "sourceNumber": 200,
+    "set": 10,
+    "vietnamese": [
+      "rảnh"
+    ],
+    "japanese": [
+      "時間が空いている"
+    ],
+    "displayVietnamese": "rảnh",
+    "displayJapanese": "時間が空いている",
+    "acceptedVietnamese": [
+      "rảnh"
+    ],
+    "acceptedJapanese": [
+      "時間が空いている"
+    ],
+    "note": "",
+    "tags": [
+      "職場・状態・形容"
+    ],
+    "southVietnamese": false
+  }
+]
